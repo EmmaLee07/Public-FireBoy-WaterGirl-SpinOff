@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\r\nThe\ first\ game\ world\r\nThis\ class\ builds\ the\ world\ by\ creating\ the\ array\ that\ can\ be\ used\ to\ put\ the\r\nbricks\ in\ certain\ spots\ and\ have\ the\ characters\ define\ where\ they\ are\r\n
+comment1.params=
+comment1.target=GameWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ buildWorld()
+comment4.params=
+comment4.target=void\ addCoins()
+comment5.params=
+comment5.target=void\ addHazards()
+comment6.params=
+comment6.target=void\ addButtons()
+comment7.params=
+comment7.target=void\ addUserControlledPlatforms()
+numComments=8
