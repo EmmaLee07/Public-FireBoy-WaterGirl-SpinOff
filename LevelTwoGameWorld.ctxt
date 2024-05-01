@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LevelTwoGameWorld
+comment1.params=
+comment1.target=LevelTwoGameWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ buildWorld()
+comment4.params=
+comment4.target=void\ addCoins()
+comment5.params=
+comment5.target=void\ addLiquidHazard()
+comment6.params=
+comment6.target=void\ addSideWall()
+comment7.params=
+comment7.target=void\ buildLevelTwoPlatform()
+numComments=8

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MyQueue1
+comment1.params=
+comment1.target=MyQueue1()
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment2.text=\r\n\ Return\ the\ Object\ at\ the\ beginning\ of\ this\ Queue\r\n\ If\ the\ Queue\ is\ empty,\ return\ null\r\n
+comment3.params=obj
+comment3.target=void\ add(java.lang.Object)
+comment3.text=\r\n\ Add\ obj\ to\ the\ end\ of\ this\ Queue\r\n
+comment4.params=
+comment4.target=java.lang.Object\ remove()
+comment4.text=\r\n\ Remove\ the\ Object\ from\ the\ front\ of\ this\ Queue\ and\ return\ it.\r\n\ If\ the\ Queue\ is\ empty,\ return\ null\r\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\r\n\ Return\ true\ if\ this\ Queue\ is\ empty\r\n
+comment6.params=
+comment6.target=int\ size()
+comment6.text=\r\n\ Return\ the\ number\ of\ Objects\ in\ this\ Queue\r\n
+numComments=7
