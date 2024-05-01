@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AutoPlatformVertical
+comment1.params=
+comment1.target=AutoPlatformVertical()
+comment2.params=up\ down
+comment2.target=AutoPlatformVertical(int,\ int)
+comment3.params=
+comment3.target=void\ initialize()
+comment3.text=\ should\ be\ called\ after\ creating\ the\ object,\ checks\ the\ current\ \r\n\ x\ and\ y\ coordinates\ to\ see\ how\ far\ up\ and\ down\ it\ should\ move\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=dy
+comment5.target=void\ move(int)
+comment6.params=
+comment6.target=boolean\ isBlocked()
+numComments=7
