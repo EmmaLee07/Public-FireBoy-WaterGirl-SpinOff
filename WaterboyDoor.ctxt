@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WaterboyDoor
+comment0.text=\r\n\ the\ class\ for\ the\ door\ at\ the\ end\ of\ the\ level\r\n
+comment1.params=
+comment1.target=WaterboyDoor()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WaterboyDoor\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
