@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Coins
+comment0.text=\r\n\ Description\:\r\n\ This\ class\ spawns\ the\ coins\ and\ removes\ them\ after\ the\ actor\ \r\n\ collects\ (touches)\ them\r\n
+comment1.params=
+comment1.target=Coins()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ noMoreCoins()
+comment4.params=
+comment4.target=void\ remove()
+numComments=5
